@@ -9,7 +9,7 @@ console.log(' compare a === b:','a=', a, 'b =', b, 'result:',a===b)
 //empty,null,undefined
 let c= [];
 console.log('check value c:', c)
-let d
+let d=null
 d=5;
 d=['hello']
 console.log('check value d:', d)
